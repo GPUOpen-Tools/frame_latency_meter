@@ -1,3 +1,5 @@
+![download](https://img.shields.io/github/downloads/GPUOpen-Tools/frame_latency_meter/total.svg)
+
 # frame latency meter
 The performance of a gaming system is critical to the overall gaming experience. One of the key factors that can impact the performance of a gaming system is the latency of the mouse response time. Measuring the latency of the mouse response time is important to ensure that the gaming system is performing optimally. However, traditional methods of measuring the latency of the mouse response time can be expensive and require additional hardware. 
 
