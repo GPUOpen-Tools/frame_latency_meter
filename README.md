@@ -21,6 +21,9 @@ The software-based latency meter offers a range of key features that make it an 
 
 The software-based latency meter offers a range of key features for measuring the latency of the mouse response time in games. By using AMF or DXGI desktop duplication for screen capture, the software-based latency meter is compatible with a wide range of gaming systems. It provides detailed statistics for per frame and latency measurements, which can be exported to a csv file for further analysis. With user-configurable hotkeys and screen capture regions, the software-based latency meter is easy to use and customize. Overall, the software-based latency meter is an ideal solution for users who want to measure the latency of the mouse response time in games without incurring additional costs.
 
+## Vulkan Base Applications
+When using the AMF option to test latency on a Vulkan based application, set the FLM.ini to use InitAMFUsingDX12 = 1
+
 ## Quick Start
 
 Requirements Windows 10 or higher with DX11 and DX12 support, games should run in windowed mode for DXGI capture codec to work. AMF can run in full screen mode and high frame rates.
